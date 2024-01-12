@@ -23,7 +23,7 @@ To use this snippet in your project, follow these steps:
 <script src="path/to/javascript.js"></script>
 <script src="path/to/jquery.js"></script>
 ```
-2. Call the imported buttonifyInputs() function to enhance your input elements. Optionally, you can pass two arguments: buttonClasses and labelClasses to customize the styling.
+2. Call the imported `buttonifyInputs()` function to enhance your input elements. Optionally, you can pass two arguments: `buttonClasses` and `labelClasses` to customize the styling.
 ```html
 <script>
   buttonifyInputs("button", "label")
